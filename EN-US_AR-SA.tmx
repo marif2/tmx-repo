@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Home&lt;/a0&gt;&lt;s1&gt;+&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142017Z" creationid="arif" creationdate="20170703T142017Z">
+        <seg>&lt;a0&gt;الصفحة الرئيسية&lt;/a0&gt;&lt;s1&gt;+&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Regions&lt;/a0&gt;&lt;a1&gt;U.S.</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142122Z" creationid="arif" creationdate="20170703T142122Z">
+        <seg>&lt;a0&gt;المناطق&lt;/a0&gt;&lt;a1&gt;U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143141Z" creationid="arif" creationdate="20170703T143141Z">
+        <seg>عربى</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binge</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143826Z" creationid="arif" creationdate="20170703T143826Z">
+        <seg>حفلة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breaking News</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141837Z" creationid="arif" creationdate="20170703T141837Z">
+        <seg>أخبار عاجلة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Business</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143551Z" creationid="arif" creationdate="20170703T143551Z">
+        <seg>اعمال</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CNN - Breaking News, U.S., World, Weather, Entertainment &amp; Video News</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T140845Z" creationid="arif" creationdate="20170703T140845Z">
+        <seg>كنن - الأخبار العاجلة، الولايات المتحدة، العالم، الطقس، الترفيه والفيديو الأخبار</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143344Z" creationid="arif" creationdate="20170703T143344Z">
+        <seg>تؤكد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143845Z" creationid="arif" creationdate="20170703T143845Z">
+        <seg>حضاره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Español</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143218Z" creationid="arif" creationdate="20170703T143218Z">
+        <seg>الاسبانية</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faces of CNN Worldwide</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144300Z" creationid="arif" creationdate="20170703T144300Z">
+        <seg>وجوه كنن في جميع أنحاء العالم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the latest breaking news and information on the top stories, weather, business, entertainment, politics, and more.</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141046Z" creationid="arif" creationdate="20170703T141046Z">
+        <seg>العثور على أحدث الأخبار العاجلة والمعلومات عن أهم القصص، والطقس، والأعمال التجارية، والترفيه، والسياسة، وأكثر من ذلك.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Football</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144140Z" creationid="arif" creationdate="20170703T144140Z">
+        <seg>كرة القدم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For in-depth coverage, CNN provides special reports, video, audio, photo galleries, and interactive guides.</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141158Z" creationid="arif" creationdate="20170703T141158Z">
+        <seg>للتغطية المتعمقة، تقدم كنن تقارير خاصة، فيديو، صوتيات، معارض صور، وأدلة تفاعلية.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Future</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143948Z" creationid="arif" creationdate="20170703T143948Z">
+        <seg>مستقبل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gadgets</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143931Z" creationid="arif" creationdate="20170703T143931Z">
+        <seg>الأدوات</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How To Watch VR</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144329Z" creationid="arif" creationdate="20170703T144329Z">
+        <seg>كيفية مشاهدة فر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143110Z" creationid="arif" creationdate="20170703T143110Z">
+        <seg>دولي</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Edition&lt;s0&gt;+&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143007Z" creationid="arif" creationdate="20170703T143007Z">
+        <seg>الطبعة الدولية&lt;s0&gt;+&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leadership</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144428Z" creationid="arif" creationdate="20170703T144428Z">
+        <seg>قيادة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Live TV</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142852Z" creationid="arif" creationdate="20170703T142852Z">
+        <seg>بث مباشر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luxury</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143706Z" creationid="arif" creationdate="20170703T143706Z">
+        <seg>ترف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markets</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143622Z" creationid="arif" creationdate="20170703T143622Z">
+        <seg>الأسواق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143906Z" creationid="arif" creationdate="20170703T143906Z">
+        <seg>وسائل الإعلام</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More…</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144346Z" creationid="arif" creationdate="20170703T144346Z">
+        <seg>أكثر من…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partner sites</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144510Z" creationid="arif" creationdate="20170703T144510Z">
+        <seg>مواقع الشركاء</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politics&lt;/a1&gt;&lt;a2&gt;Money&lt;/a2&gt;&lt;a3&gt;Entertainment&lt;/a3&gt;&lt;a4&gt;Tech&lt;/a4&gt;&lt;a5&gt;Sport&lt;/a5&gt;&lt;a6&gt;Travel&lt;/a6&gt;&lt;a7&gt;Style&lt;/a7&gt;&lt;a8&gt;Health&lt;/a8&gt;&lt;a9&gt;Video&lt;/a9&gt;&lt;a10&gt;VR&lt;/a10&gt;</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142824Z" creationid="arif" creationdate="20170703T142824Z">
+        <seg>سياسة&lt;/a1&gt;&lt;a2&gt;مال&lt;/a2&gt;&lt;a3&gt;وسائل الترفيه&lt;/a3&gt;&lt;a4&gt;التكنولوجيا&lt;/a4&gt;&lt;a5&gt;رياضة&lt;/a5&gt;&lt;a6&gt;Travel&lt;/a6&gt;&lt;a7&gt;قلم المدقة&lt;/a7&gt;&lt;a8&gt;الصحة&lt;/a8&gt;&lt;a9&gt;فيديو&lt;/a9&gt;&lt;a10&gt;VR&lt;/a10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressroom</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144448Z" creationid="arif" creationdate="20170703T144448Z">
+        <seg>غرفة الصحافة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143759Z" creationid="arif" creationdate="20170703T143759Z">
+        <seg>شاشة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search CNN...</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142921Z" creationid="arif" creationdate="20170703T142921Z">
+        <seg>بحث كنن...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search »</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T142941Z" creationid="arif" creationdate="20170703T142941Z">
+        <seg>بحث »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143414Z" creationid="arif" creationdate="20170703T143414Z">
+        <seg>الأمان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set edition preference:</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143244Z" creationid="arif" creationdate="20170703T143244Z">
+        <seg>تعيين تفضيل الإصدار:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sport</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144101Z" creationid="arif" creationdate="20170703T144101Z">
+        <seg>رياضة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stars</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143737Z" creationid="arif" creationdate="20170703T143737Z">
+        <seg>نجوم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Startups</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144013Z" creationid="arif" creationdate="20170703T144013Z">
+        <seg>الشركات الناشئة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143524Z" creationid="arif" creationdate="20170703T143524Z">
+        <seg>حالة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TV schedule</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144234Z" creationid="arif" creationdate="20170703T144234Z">
+        <seg>جدول التلفزيون</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TV shows</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144220Z" creationid="arif" creationdate="20170703T144220Z">
+        <seg>عرض تلفزيوني</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tech</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143643Z" creationid="arif" creationdate="20170703T143643Z">
+        <seg>التكنولوجيا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Nine</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T143433Z" creationid="arif" creationdate="20170703T143433Z">
+        <seg>تسعة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144407Z" creationid="arif" creationdate="20170703T144407Z">
+        <seg>طقس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Work for CNN</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T144535Z" creationid="arif" creationdate="20170703T144535Z">
+        <seg>العمل في كنن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>breaking news, news online, U.S.</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141336Z" creationid="arif" creationdate="20170703T141336Z">
+        <seg>الأخبار العاجلة، الأخبار عبر الإنترنت، الولايات المتحدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>news, world news, developing story, news video, CNN news, weather, business, money, politics, law, technology, entertainment, education, travel, health, special reports, autos, CNN TV</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141440Z" creationid="arif" creationdate="20170703T141440Z">
+        <seg>أخبار، أخبار العالم، وتطوير القصة، أخبار الفيديو، كنن الأخبار والطقس والأعمال والمال والسياسة والقانون والتكنولوجيا والترفيه والتعليم والسفر والصحة والتقارير الخاصة، والسيارات، تلفزيون كنن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>website</seg>
+      </tuv>
+      <tuv lang="AR-SA" changeid="arif" changedate="20170703T141749Z" creationid="arif" creationdate="20170703T141749Z">
+        <seg>موقع الكتروني</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
